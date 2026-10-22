@@ -1,0 +1,14 @@
+{
+  "asset_class": "Auto Transport Car Hauler Log",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "multi_vehicle_payload_matrices",
+    "vin_tracking_columns",
+    "damage_inspection_logs",
+    "expense_accounting_engines"
+  ]
+}
